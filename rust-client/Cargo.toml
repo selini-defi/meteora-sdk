@@ -4,9 +4,9 @@ version = { workspace = true }
 edition = { workspace = true }
 
 [dependencies]
-anchor-lang = "0.28.0"
-anchor-spl = "0.28.0"
-anchor-client = "0.28.0"
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+anchor-client = "0.29.0"
 clap = { version = "3.2.25", features = ["derive", "env"] }
 solana-program = { version = "=1.16.16" }
 solana-rpc-client = { version = "=1.16.16" }
